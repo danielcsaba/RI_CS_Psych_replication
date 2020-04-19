@@ -2,5 +2,4 @@
 
 Replication files for Caplin, Csaba, Leahy and Nov: Rational Inattention, Competitive Supply, and Psychometrics
 
-All analysis done in Python using Jupyter Notebooks. Data available upon request.
-
+All analysis done in Python. Data available upon request.
